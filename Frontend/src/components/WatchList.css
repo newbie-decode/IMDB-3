@@ -1,0 +1,29 @@
+.watchlist {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom :20px;
+}
+
+.watchlist h2 {
+    margin-bottom: 10px;
+}
+
+.watchlist ul {
+    list-style: none;
+    padding: 0;
+}
+
+.watchlist ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.watchlist ul li img {
+    width: 50px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
